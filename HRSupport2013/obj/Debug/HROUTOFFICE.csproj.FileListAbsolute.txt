@@ -1,0 +1,172 @@
+D:\Projects\Win\vs2008\HRSupport2013\Neung\HRSupport2013\bin\Debug\HROUTOFFICE.exe.manifest
+D:\Projects\Win\vs2008\HRSupport2013\Neung\HRSupport2013\bin\Debug\HROUTOFFICE.application
+D:\Projects\Win\vs2008\HRSupport2013\Neung\HRSupport2013\bin\Debug\HROUTOFFICE.exe
+D:\Projects\Win\vs2008\HRSupport2013\Neung\HRSupport2013\bin\Debug\HROUTOFFICE.pdb
+D:\Projects\Win\vs2008\HRSupport2013\Neung\HRSupport2013\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Win\vs2008\HRSupport2013\Neung\HRSupport2013\obj\Debug\HROUTOFFICE.Form1.resources
+D:\Projects\Win\vs2008\HRSupport2013\Neung\HRSupport2013\obj\Debug\HROUTOFFICE.Form2.resources
+D:\Projects\Win\vs2008\HRSupport2013\Neung\HRSupport2013\obj\Debug\HROUTOFFICE.FormCreateNew.resources
+D:\Projects\Win\vs2008\HRSupport2013\Neung\HRSupport2013\obj\Debug\HROUTOFFICE.FormCreateNewPassword.resources
+D:\Projects\Win\vs2008\HRSupport2013\Neung\HRSupport2013\obj\Debug\HROUTOFFICE.FormDetailHrApprove.resources
+D:\Projects\Win\vs2008\HRSupport2013\Neung\HRSupport2013\obj\Debug\HROUTOFFICE.FormDetailShowData.resources
+D:\Projects\Win\vs2008\HRSupport2013\Neung\HRSupport2013\obj\Debug\HROUTOFFICE.FormEdit.resources
+D:\Projects\Win\vs2008\HRSupport2013\Neung\HRSupport2013\obj\Debug\HROUTOFFICE.FormEmplEdit.resources
+D:\Projects\Win\vs2008\HRSupport2013\Neung\HRSupport2013\obj\Debug\HROUTOFFICE.FormHdApprove.resources
+D:\Projects\Win\vs2008\HRSupport2013\Neung\HRSupport2013\obj\Debug\HROUTOFFICE.FormDetailHeadApproved.resources
+D:\Projects\Win\vs2008\HRSupport2013\Neung\HRSupport2013\obj\Debug\HROUTOFFICE.FormHrApprovedIn.resources
+D:\Projects\Win\vs2008\HRSupport2013\Neung\HRSupport2013\obj\Debug\HROUTOFFICE.FormHrApproveOut.resources
+D:\Projects\Win\vs2008\HRSupport2013\Neung\HRSupport2013\obj\Debug\HROUTOFFICE.FormHrDetailApproveIn.resources
+D:\Projects\Win\vs2008\HRSupport2013\Neung\HRSupport2013\obj\Debug\HROUTOFFICE.FormLogIn.resources
+D:\Projects\Win\vs2008\HRSupport2013\Neung\HRSupport2013\obj\Debug\HROUTOFFICE.FormMain.resources
+D:\Projects\Win\vs2008\HRSupport2013\Neung\HRSupport2013\obj\Debug\HROUTOFFICE.FormDeleteEmpl.resources
+D:\Projects\Win\vs2008\HRSupport2013\Neung\HRSupport2013\obj\Debug\HROUTOFFICE.FormReportHROut.resources
+D:\Projects\Win\vs2008\HRSupport2013\Neung\HRSupport2013\obj\Debug\HROUTOFFICE.FormReportOutOverTime.resources
+D:\Projects\Win\vs2008\HRSupport2013\Neung\HRSupport2013\obj\Debug\HROUTOFFICE.FormReportStatusDoc.resources
+D:\Projects\Win\vs2008\HRSupport2013\Neung\HRSupport2013\obj\Debug\HROUTOFFICE.FormAddSysUser.resources
+D:\Projects\Win\vs2008\HRSupport2013\Neung\HRSupport2013\obj\Debug\HROUTOFFICE.FormReportWeekedOver.resources
+D:\Projects\Win\vs2008\HRSupport2013\Neung\HRSupport2013\obj\Debug\HROUTOFFICE.FormTruckId.resources
+D:\Projects\Win\vs2008\HRSupport2013\Neung\HRSupport2013\obj\Debug\HROUTOFFICE.MDIParent1.resources
+D:\Projects\Win\vs2008\HRSupport2013\Neung\HRSupport2013\obj\Debug\HROUTOFFICE.Properties.Resources.resources
+D:\Projects\Win\vs2008\HRSupport2013\Neung\HRSupport2013\obj\Debug\HROUTOFFICE.PWTIMETEMP.resources
+D:\Projects\Win\vs2008\HRSupport2013\Neung\HRSupport2013\obj\Debug\HROUTOFFICE.csproj.GenerateResource.Cache
+D:\Projects\Win\vs2008\HRSupport2013\Neung\HRSupport2013\obj\Debug\HROUTOFFICE.TrustInfo.xml
+D:\Projects\Win\vs2008\HRSupport2013\Neung\HRSupport2013\obj\Debug\HROUTOFFICE.exe.manifest
+D:\Projects\Win\vs2008\HRSupport2013\Neung\HRSupport2013\obj\Debug\HROUTOFFICE.application
+D:\Projects\Win\vs2008\HRSupport2013\Neung\HRSupport2013\obj\Debug\HROUTOFFICE.exe
+D:\Projects\Win\vs2008\HRSupport2013\Neung\HRSupport2013\obj\Debug\HROUTOFFICE.pdb
+D:\Project\WinApp\HRSupport2013\HRSupport2013\HRSupport2013\bin\Debug\HROUTOFFICE.exe.manifest
+D:\Project\WinApp\HRSupport2013\HRSupport2013\HRSupport2013\bin\Debug\HROUTOFFICE.application
+D:\Project\WinApp\HRSupport2013\HRSupport2013\HRSupport2013\bin\Debug\HROUTOFFICE.exe
+D:\Project\WinApp\HRSupport2013\HRSupport2013\HRSupport2013\bin\Debug\HROUTOFFICE.pdb
+D:\Project\WinApp\HRSupport2013\HRSupport2013\HRSupport2013\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\WinApp\HRSupport2013\HRSupport2013\HRSupport2013\obj\Debug\HROUTOFFICE.Form1.resources
+D:\Project\WinApp\HRSupport2013\HRSupport2013\HRSupport2013\obj\Debug\HROUTOFFICE.Form2.resources
+D:\Project\WinApp\HRSupport2013\HRSupport2013\HRSupport2013\obj\Debug\HROUTOFFICE.FormCreateNew.resources
+D:\Project\WinApp\HRSupport2013\HRSupport2013\HRSupport2013\obj\Debug\HROUTOFFICE.FormCreateNewPassword.resources
+D:\Project\WinApp\HRSupport2013\HRSupport2013\HRSupport2013\obj\Debug\HROUTOFFICE.FormDetailHrApprove.resources
+D:\Project\WinApp\HRSupport2013\HRSupport2013\HRSupport2013\obj\Debug\HROUTOFFICE.FormDetailShowData.resources
+D:\Project\WinApp\HRSupport2013\HRSupport2013\HRSupport2013\obj\Debug\HROUTOFFICE.FormDetailWeekedOver.resources
+D:\Project\WinApp\HRSupport2013\HRSupport2013\HRSupport2013\obj\Debug\HROUTOFFICE.FormEdit.resources
+D:\Project\WinApp\HRSupport2013\HRSupport2013\HRSupport2013\obj\Debug\HROUTOFFICE.FormEmplEdit.resources
+D:\Project\WinApp\HRSupport2013\HRSupport2013\HRSupport2013\obj\Debug\HROUTOFFICE.FormHdApprove.resources
+D:\Project\WinApp\HRSupport2013\HRSupport2013\HRSupport2013\obj\Debug\HROUTOFFICE.FormDetailHeadApproved.resources
+D:\Project\WinApp\HRSupport2013\HRSupport2013\HRSupport2013\obj\Debug\HROUTOFFICE.FormHrApprovedIn.resources
+D:\Project\WinApp\HRSupport2013\HRSupport2013\HRSupport2013\obj\Debug\HROUTOFFICE.FormHrApproveOut.resources
+D:\Project\WinApp\HRSupport2013\HRSupport2013\HRSupport2013\obj\Debug\HROUTOFFICE.FormHrDetailApproveIn.resources
+D:\Project\WinApp\HRSupport2013\HRSupport2013\HRSupport2013\obj\Debug\HROUTOFFICE.FormLogIn.resources
+D:\Project\WinApp\HRSupport2013\HRSupport2013\HRSupport2013\obj\Debug\HROUTOFFICE.FormMain.resources
+D:\Project\WinApp\HRSupport2013\HRSupport2013\HRSupport2013\obj\Debug\HROUTOFFICE.FormDeleteEmpl.resources
+D:\Project\WinApp\HRSupport2013\HRSupport2013\HRSupport2013\obj\Debug\HROUTOFFICE.FormReportHROut.resources
+D:\Project\WinApp\HRSupport2013\HRSupport2013\HRSupport2013\obj\Debug\HROUTOFFICE.FormReportOutOverTime.resources
+D:\Project\WinApp\HRSupport2013\HRSupport2013\HRSupport2013\obj\Debug\HROUTOFFICE.FormReportStatusDoc.resources
+D:\Project\WinApp\HRSupport2013\HRSupport2013\HRSupport2013\obj\Debug\HROUTOFFICE.FormAddSysUser.resources
+D:\Project\WinApp\HRSupport2013\HRSupport2013\HRSupport2013\obj\Debug\HROUTOFFICE.FormReportWeekedOver.resources
+D:\Project\WinApp\HRSupport2013\HRSupport2013\HRSupport2013\obj\Debug\HROUTOFFICE.FormTruckId.resources
+D:\Project\WinApp\HRSupport2013\HRSupport2013\HRSupport2013\obj\Debug\HROUTOFFICE.FormTruckIdEdit.resources
+D:\Project\WinApp\HRSupport2013\HRSupport2013\HRSupport2013\obj\Debug\HROUTOFFICE.MDIParent1.resources
+D:\Project\WinApp\HRSupport2013\HRSupport2013\HRSupport2013\obj\Debug\HROUTOFFICE.Properties.Resources.resources
+D:\Project\WinApp\HRSupport2013\HRSupport2013\HRSupport2013\obj\Debug\HROUTOFFICE.PWTIMETEMP.resources
+D:\Project\WinApp\HRSupport2013\HRSupport2013\HRSupport2013\obj\Debug\HROUTOFFICE.csproj.GenerateResource.Cache
+D:\Project\WinApp\HRSupport2013\HRSupport2013\HRSupport2013\obj\Debug\HROUTOFFICE.TrustInfo.xml
+D:\Project\WinApp\HRSupport2013\HRSupport2013\HRSupport2013\obj\Debug\HROUTOFFICE.exe.manifest
+D:\Project\WinApp\HRSupport2013\HRSupport2013\HRSupport2013\obj\Debug\HROUTOFFICE.application
+D:\Project\WinApp\HRSupport2013\HRSupport2013\HRSupport2013\obj\Debug\HROUTOFFICE.exe
+D:\Project\WinApp\HRSupport2013\HRSupport2013\HRSupport2013\obj\Debug\HROUTOFFICE.pdb
+D:\Project\WinApp\HRSupport2013\HRSupport2013\HRSupport2013\obj\Debug\HROUTOFFICE.FormMNApproveIn.resources
+D:\Project\WinApp\HRSupport2013\HRSupport2013\HRSupport2013\obj\Debug\HROUTOFFICE.FormMNApproveOut.resources
+D:\Project\WinApp\HRSupport2013\HRSupport2013\HRSupport2013\obj\Debug\HROUTOFFICE.FormAddEmpl.resources
+D:\Project\HROS\HRSupport2013\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\HROS\HRSupport2013\obj\Debug\HROUTOFFICE.Form1.resources
+D:\Project\HROS\HRSupport2013\obj\Debug\HROUTOFFICE.Form2.resources
+D:\Project\HROS\HRSupport2013\obj\Debug\HROUTOFFICE.FormAddEmpl.resources
+D:\Project\HROS\HRSupport2013\obj\Debug\HROUTOFFICE.FormCreateNew.resources
+D:\Project\HROS\HRSupport2013\obj\Debug\HROUTOFFICE.FormCreateNewPassword.resources
+D:\Project\HROS\HRSupport2013\obj\Debug\HROUTOFFICE.FormDetailHrApprove.resources
+D:\Project\HROS\HRSupport2013\obj\Debug\HROUTOFFICE.FormDetailShowData.resources
+D:\Project\HROS\HRSupport2013\obj\Debug\HROUTOFFICE.FormDetailWeekedOver.resources
+D:\Project\HROS\HRSupport2013\obj\Debug\HROUTOFFICE.FormEdit.resources
+D:\Project\HROS\HRSupport2013\obj\Debug\HROUTOFFICE.FormEmplEdit.resources
+D:\Project\HROS\HRSupport2013\obj\Debug\HROUTOFFICE.FormHdApprove.resources
+D:\Project\HROS\HRSupport2013\obj\Debug\HROUTOFFICE.FormDetailHeadApproved.resources
+D:\Project\HROS\HRSupport2013\obj\Debug\HROUTOFFICE.FormHrApprovedIn.resources
+D:\Project\HROS\HRSupport2013\obj\Debug\HROUTOFFICE.FormHrApproveOut.resources
+D:\Project\HROS\HRSupport2013\obj\Debug\HROUTOFFICE.FormHrDetailApproveIn.resources
+D:\Project\HROS\HRSupport2013\obj\Debug\HROUTOFFICE.FormLogIn.resources
+D:\Project\HROS\HRSupport2013\obj\Debug\HROUTOFFICE.FormDeleteEmpl.resources
+D:\Project\HROS\HRSupport2013\obj\Debug\HROUTOFFICE.FormMain.resources
+D:\Project\HROS\HRSupport2013\obj\Debug\HROUTOFFICE.FormMNApproveIn.resources
+D:\Project\HROS\HRSupport2013\obj\Debug\HROUTOFFICE.FormMNApproveOut.resources
+D:\Project\HROS\HRSupport2013\obj\Debug\HROUTOFFICE.FormReportHROut.resources
+D:\Project\HROS\HRSupport2013\obj\Debug\HROUTOFFICE.FormReportOutOverTime.resources
+D:\Project\HROS\HRSupport2013\obj\Debug\HROUTOFFICE.FormReportStatusDoc.resources
+D:\Project\HROS\HRSupport2013\obj\Debug\HROUTOFFICE.FormAddSysUser.resources
+D:\Project\HROS\HRSupport2013\obj\Debug\HROUTOFFICE.FormReportWeekedOver.resources
+D:\Project\HROS\HRSupport2013\obj\Debug\HROUTOFFICE.FormTruckId.resources
+D:\Project\HROS\HRSupport2013\obj\Debug\HROUTOFFICE.FormTruckIdEdit.resources
+D:\Project\HROS\HRSupport2013\obj\Debug\HROUTOFFICE.MDIParent1.resources
+D:\Project\HROS\HRSupport2013\obj\Debug\HROUTOFFICE.Properties.Resources.resources
+D:\Project\HROS\HRSupport2013\obj\Debug\HROUTOFFICE.PWTIMETEMP.resources
+D:\Project\HROS\HRSupport2013\obj\Debug\HROUTOFFICE.csproj.GenerateResource.Cache
+D:\Project\HROS\HRSupport2013\bin\Debug\HROUTOFFICE.exe.manifest
+D:\Project\HROS\HRSupport2013\bin\Debug\HROUTOFFICE.application
+D:\Project\HROS\HRSupport2013\bin\Debug\HROUTOFFICE.exe
+D:\Project\HROS\HRSupport2013\bin\Debug\HROUTOFFICE.pdb
+D:\Project\HROS\HRSupport2013\bin\Debug\HRDOCS.exe
+D:\Project\HROS\HRSupport2013\bin\Debug\SysApp.dll
+D:\Project\HROS\HRSupport2013\bin\Debug\HRDOCS.pdb
+D:\Project\HROS\HRSupport2013\bin\Debug\SysApp.pdb
+D:\Project\HROS\HRSupport2013\obj\Debug\HROUTOFFICE.TrustInfo.xml
+D:\Project\HROS\HRSupport2013\obj\Debug\HROUTOFFICE.exe.manifest
+D:\Project\HROS\HRSupport2013\obj\Debug\HROUTOFFICE.application
+D:\Project\HROS\HRSupport2013\obj\Debug\HROUTOFFICE.exe
+D:\Project\HROS\HRSupport2013\obj\Debug\HROUTOFFICE.pdb
+D:\Project\HROS\HRSupport2013\bin\Debug\HRCHANGHOLIDAY.exe
+D:\Project\HROS\HRSupport2013\bin\Debug\HRCHANGHOLIDAY.pdb
+C:\Users\chakorn\Desktop\New folder\HRSupport2013\obj\Debug\HROUTOFFICE.exe
+C:\Users\chakorn\Desktop\New folder\HRSupport2013\obj\Debug\HROUTOFFICE.pdb
+C:\Users\chakorn\Desktop\New folder\HRSupport2013\bin\Debug\HROUTOFFICE.exe.manifest
+C:\Users\chakorn\Desktop\New folder\HRSupport2013\bin\Debug\HROUTOFFICE.application
+C:\Users\chakorn\Desktop\New folder\HRSupport2013\bin\Debug\HROUTOFFICE.exe
+C:\Users\chakorn\Desktop\New folder\HRSupport2013\bin\Debug\HROUTOFFICE.pdb
+C:\Users\chakorn\Desktop\New folder\HRSupport2013\bin\Debug\HRCHANGHOLIDAY.exe
+C:\Users\chakorn\Desktop\New folder\HRSupport2013\bin\Debug\HRDOCS.exe
+C:\Users\chakorn\Desktop\New folder\HRSupport2013\bin\Debug\SysApp.dll
+C:\Users\chakorn\Desktop\New folder\HRSupport2013\bin\Debug\HRCHANGHOLIDAY.pdb
+C:\Users\chakorn\Desktop\New folder\HRSupport2013\bin\Debug\HRDOCS.pdb
+C:\Users\chakorn\Desktop\New folder\HRSupport2013\bin\Debug\SysApp.pdb
+C:\Users\chakorn\Desktop\New folder\HRSupport2013\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\chakorn\Desktop\New folder\HRSupport2013\obj\Debug\HROUTOFFICE.Form1.resources
+C:\Users\chakorn\Desktop\New folder\HRSupport2013\obj\Debug\HROUTOFFICE.Form2.resources
+C:\Users\chakorn\Desktop\New folder\HRSupport2013\obj\Debug\HROUTOFFICE.FormAddEmpl.resources
+C:\Users\chakorn\Desktop\New folder\HRSupport2013\obj\Debug\HROUTOFFICE.FormCreateNew.resources
+C:\Users\chakorn\Desktop\New folder\HRSupport2013\obj\Debug\HROUTOFFICE.FormCreateNewPassword.resources
+C:\Users\chakorn\Desktop\New folder\HRSupport2013\obj\Debug\HROUTOFFICE.FormDetailHrApprove.resources
+C:\Users\chakorn\Desktop\New folder\HRSupport2013\obj\Debug\HROUTOFFICE.FormDetailShowData.resources
+C:\Users\chakorn\Desktop\New folder\HRSupport2013\obj\Debug\HROUTOFFICE.FormDetailWeekedOver.resources
+C:\Users\chakorn\Desktop\New folder\HRSupport2013\obj\Debug\HROUTOFFICE.FormEdit.resources
+C:\Users\chakorn\Desktop\New folder\HRSupport2013\obj\Debug\HROUTOFFICE.FormEmplEdit.resources
+C:\Users\chakorn\Desktop\New folder\HRSupport2013\obj\Debug\HROUTOFFICE.FormHdApprove.resources
+C:\Users\chakorn\Desktop\New folder\HRSupport2013\obj\Debug\HROUTOFFICE.FormDetailHeadApproved.resources
+C:\Users\chakorn\Desktop\New folder\HRSupport2013\obj\Debug\HROUTOFFICE.FormHrApprovedIn.resources
+C:\Users\chakorn\Desktop\New folder\HRSupport2013\obj\Debug\HROUTOFFICE.FormHrApproveOut.resources
+C:\Users\chakorn\Desktop\New folder\HRSupport2013\obj\Debug\HROUTOFFICE.FormHrDetailApproveIn.resources
+C:\Users\chakorn\Desktop\New folder\HRSupport2013\obj\Debug\HROUTOFFICE.FormLogIn.resources
+C:\Users\chakorn\Desktop\New folder\HRSupport2013\obj\Debug\HROUTOFFICE.FormDeleteEmpl.resources
+C:\Users\chakorn\Desktop\New folder\HRSupport2013\obj\Debug\HROUTOFFICE.FormMain.resources
+C:\Users\chakorn\Desktop\New folder\HRSupport2013\obj\Debug\HROUTOFFICE.FormMNApproveIn.resources
+C:\Users\chakorn\Desktop\New folder\HRSupport2013\obj\Debug\HROUTOFFICE.FormMNApproveOut.resources
+C:\Users\chakorn\Desktop\New folder\HRSupport2013\obj\Debug\HROUTOFFICE.FormReportHROut.resources
+C:\Users\chakorn\Desktop\New folder\HRSupport2013\obj\Debug\HROUTOFFICE.FormReportOutOverTime.resources
+C:\Users\chakorn\Desktop\New folder\HRSupport2013\obj\Debug\HROUTOFFICE.FormReportStatusDoc.resources
+C:\Users\chakorn\Desktop\New folder\HRSupport2013\obj\Debug\HROUTOFFICE.FormAddSysUser.resources
+C:\Users\chakorn\Desktop\New folder\HRSupport2013\obj\Debug\HROUTOFFICE.FormReportWeekedOver.resources
+C:\Users\chakorn\Desktop\New folder\HRSupport2013\obj\Debug\HROUTOFFICE.FormTruckId.resources
+C:\Users\chakorn\Desktop\New folder\HRSupport2013\obj\Debug\HROUTOFFICE.FormTruckIdEdit.resources
+C:\Users\chakorn\Desktop\New folder\HRSupport2013\obj\Debug\HROUTOFFICE.MDIParent1.resources
+C:\Users\chakorn\Desktop\New folder\HRSupport2013\obj\Debug\HROUTOFFICE.Properties.Resources.resources
+C:\Users\chakorn\Desktop\New folder\HRSupport2013\obj\Debug\HROUTOFFICE.PWTIMETEMP.resources
+C:\Users\chakorn\Desktop\New folder\HRSupport2013\obj\Debug\HROUTOFFICE.csproj.GenerateResource.Cache
+C:\Users\chakorn\Desktop\New folder\HRSupport2013\obj\Debug\HROUTOFFICE.TrustInfo.xml
+C:\Users\chakorn\Desktop\New folder\HRSupport2013\obj\Debug\HROUTOFFICE.exe.manifest
+C:\Users\chakorn\Desktop\New folder\HRSupport2013\obj\Debug\HROUTOFFICE.application
+D:\PROJECT\HROS\HRSupport2013\obj\Debug\HROUTOFFICE.FormEmplFood.resources

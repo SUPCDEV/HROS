@@ -1,0 +1,14 @@
+D:\Project\HROS\SysApp\bin\Debug\SysApp.dll
+D:\Project\HROS\SysApp\bin\Debug\SysApp.pdb
+D:\Project\HROS\SysApp\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\HROS\SysApp\obj\Debug\SysApp.Properties.Resources.resources
+D:\Project\HROS\SysApp\obj\Debug\SysApp.csproj.GenerateResource.Cache
+D:\Project\HROS\SysApp\obj\Debug\SysApp.dll
+D:\Project\HROS\SysApp\obj\Debug\SysApp.pdb
+C:\Users\chakorn\Desktop\New folder\SysApp\bin\Debug\SysApp.dll
+C:\Users\chakorn\Desktop\New folder\SysApp\bin\Debug\SysApp.pdb
+C:\Users\chakorn\Desktop\New folder\SysApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\chakorn\Desktop\New folder\SysApp\obj\Debug\SysApp.Properties.Resources.resources
+C:\Users\chakorn\Desktop\New folder\SysApp\obj\Debug\SysApp.csproj.GenerateResource.Cache
+C:\Users\chakorn\Desktop\New folder\SysApp\obj\Debug\SysApp.dll
+C:\Users\chakorn\Desktop\New folder\SysApp\obj\Debug\SysApp.pdb

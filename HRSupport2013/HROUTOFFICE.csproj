@@ -1,0 +1,609 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{DB6970CC-7266-4CC7-A2C8-ABE767376036}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>HROUTOFFICE</RootNamespace>
+    <AssemblyName>HROUTOFFICE</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ApplicationIcon>Resources\sign-out-ico.ico</ApplicationIcon>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <ManifestCertificateThumbprint>888E703E80DA6E5CD92CCBD73FAC921CC1A8481A</ManifestCertificateThumbprint>
+    <ManifestKeyFile>HRSupport2013_TemporaryKey.pfx</ManifestKeyFile>
+    <GenerateManifests>true</GenerateManifests>
+    <TargetZone>LocalIntranet</TargetZone>
+    <SignManifests>true</SignManifests>
+    <StartupObject>HROUTOFFICE.Program</StartupObject>
+    <NoWin32Manifest>true</NoWin32Manifest>
+    <CreateDesktopShortcut>true</CreateDesktopShortcut>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <PublishUrl>\\spc310srv\PublishApps\hroutoffice\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Unc</InstallFrom>
+    <UpdateEnabled>true</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <UpdateUrl>http://spc310srv/PublishApps/hroutoffice/</UpdateUrl>
+    <ProductName>HR ONLINE</ProductName>
+    <PublisherName>SUPERCHEAP PHUKET</PublisherName>
+    <CreateWebPageOnPublish>true</CreateWebPageOnPublish>
+    <WebPage>default.htm</WebPage>
+    <ApplicationRevision>77</ApplicationRevision>
+    <ApplicationVersion>1.0.1.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>false</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.AnalysisServices.AdomdClient, Version=10.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Telerik.WinControls, Version=2013.1.220.20, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.WinControls.ChartView, Version=2013.1.220.20, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.WinControls.GridView, Version=2013.1.220.20, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.WinControls.PivotGrid, Version=2013.1.220.20, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.WinControls.RadDock, Version=2013.1.220.20, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.WinControls.Scheduler, Version=2013.1.220.20, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.WinControls.Themes.VisualStudio2012Dark, Version=2013.1.220.20, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.WinControls.Themes.VisualStudio2012Light, Version=2013.1.220.20, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.WinControls.UI, Version=2013.1.220.20, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL" />
+    <Reference Include="TelerikCommon, Version=2013.1.220.20, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL" />
+    <Reference Include="TelerikData, Version=2013.1.220.20, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ClassCryptography.cs" />
+    <Compile Include="ClassDocId.cs" />
+    <Compile Include="ClassUser.cs" />
+    <Compile Include="DatabaseConfig.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAddEmpl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAddEmpl.Designer.cs">
+      <DependentUpon>FormAddEmpl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormCreateNew.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCreateNew.Designer.cs">
+      <DependentUpon>FormCreateNew.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormCreateNewPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCreateNewPassword.Designer.cs">
+      <DependentUpon>FormCreateNewPassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDetailHrApproveOut.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDetailHrApproveOut.Designer.cs">
+      <DependentUpon>FormDetailHrApproveOut.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDetailShowData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDetailShowData.Designer.cs">
+      <DependentUpon>FormDetailShowData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDetailWeekedOver.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDetailWeekedOver.Designer.cs">
+      <DependentUpon>FormDetailWeekedOver.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormEdit.Designer.cs">
+      <DependentUpon>FormEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormEmplEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormEmplEdit.Designer.cs">
+      <DependentUpon>FormEmplEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormEmplFood.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormEmplFood.Designer.cs">
+      <DependentUpon>FormEmplFood.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormHdApprove.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormHdApprove.Designer.cs">
+      <DependentUpon>FormHdApprove.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDetailHeadApproved.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDetailHeadApproved.Designer.cs">
+      <DependentUpon>FormDetailHeadApproved.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormHrApprovedIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormHrApprovedIn.Designer.cs">
+      <DependentUpon>FormHrApprovedIn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormHrApproveOut.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormHrApproveOut.Designer.cs">
+      <DependentUpon>FormHrApproveOut.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormHrDetailApproveIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormHrDetailApproveIn.Designer.cs">
+      <DependentUpon>FormHrDetailApproveIn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormLogIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLogIn.Designer.cs">
+      <DependentUpon>FormLogIn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDeleteEmpl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDeleteEmpl.Designer.cs">
+      <DependentUpon>FormDeleteEmpl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMain.Designer.cs">
+      <DependentUpon>FormMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMNApproveIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMNApproveIn.Designer.cs">
+      <DependentUpon>FormMNApproveIn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMNApproveOut.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMNApproveOut.Designer.cs">
+      <DependentUpon>FormMNApproveOut.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormReportHROut.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormReportHROut.Designer.cs">
+      <DependentUpon>FormReportHROut.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormReportOutOverTime.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormReportOutOverTime.Designer.cs">
+      <DependentUpon>FormReportOutOverTime.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormReportStatusDoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormReportStatusDoc.Designer.cs">
+      <DependentUpon>FormReportStatusDoc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAddSysUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAddSysUser.Designer.cs">
+      <DependentUpon>FormAddSysUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormReportWeekedOver.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormReportWeekedOver.Designer.cs">
+      <DependentUpon>FormReportWeekedOver.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTruckId.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTruckId.Designer.cs">
+      <DependentUpon>FormTruckId.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTruckIdEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTruckIdEdit.Designer.cs">
+      <DependentUpon>FormTruckIdEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KAN\Shift\Shift_Create.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KAN\Shift\Shift_Create.Designer.cs">
+      <DependentUpon>Shift_Create.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MDIParent1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MDIParent1.Designer.cs">
+      <DependentUpon>MDIParent1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAddEmpl.resx">
+      <DependentUpon>FormAddEmpl.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCreateNew.resx">
+      <DependentUpon>FormCreateNew.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCreateNewPassword.resx">
+      <DependentUpon>FormCreateNewPassword.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDetailHrApproveOut.resx">
+      <DependentUpon>FormDetailHrApproveOut.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDetailShowData.resx">
+      <DependentUpon>FormDetailShowData.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDetailWeekedOver.resx">
+      <DependentUpon>FormDetailWeekedOver.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormEdit.resx">
+      <DependentUpon>FormEdit.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormEmplEdit.resx">
+      <DependentUpon>FormEmplEdit.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormEmplFood.resx">
+      <DependentUpon>FormEmplFood.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormHdApprove.resx">
+      <DependentUpon>FormHdApprove.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDetailHeadApproved.resx">
+      <DependentUpon>FormDetailHeadApproved.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormHrApprovedIn.resx">
+      <DependentUpon>FormHrApprovedIn.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormHrApproveOut.resx">
+      <DependentUpon>FormHrApproveOut.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormHrDetailApproveIn.resx">
+      <DependentUpon>FormHrDetailApproveIn.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLogIn.resx">
+      <DependentUpon>FormLogIn.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDeleteEmpl.resx">
+      <DependentUpon>FormDeleteEmpl.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMain.resx">
+      <DependentUpon>FormMain.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMNApproveIn.resx">
+      <DependentUpon>FormMNApproveIn.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMNApproveOut.resx">
+      <DependentUpon>FormMNApproveOut.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormReportHROut.resx">
+      <DependentUpon>FormReportHROut.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormReportOutOverTime.resx">
+      <DependentUpon>FormReportOutOverTime.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormReportStatusDoc.resx">
+      <DependentUpon>FormReportStatusDoc.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAddSysUser.resx">
+      <DependentUpon>FormAddSysUser.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormReportWeekedOver.resx">
+      <DependentUpon>FormReportWeekedOver.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTruckId.resx">
+      <DependentUpon>FormTruckId.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTruckIdEdit.resx">
+      <DependentUpon>FormTruckIdEdit.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MDIParent1.resx">
+      <DependentUpon>MDIParent1.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PWTIMETEMP.resx">
+      <DependentUpon>PWTIMETEMP.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="PWTIMETEMP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PWTIMETEMP.Designer.cs">
+      <DependentUpon>PWTIMETEMP.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blue-document-excel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\disk.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\app.manifest" />
+    <None Include="Resources\page_excel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="14.ico" />
+    <Content Include="15.ico" />
+    <Content Include="Resources\14.ico" />
+    <None Include="Resources\logo.png" />
+    <None Include="HRSupport2013_TemporaryKey.pfx" />
+    <None Include="Resources\sign-out-ico.ico" />
+    <None Include="Resources\sign-out.png" />
+    <None Include="Resources\Edit.png" />
+    <None Include="Resources\1392736760_Close.png" />
+    <None Include="Resources\Edit Text.png" />
+    <None Include="Resources\Close.png" />
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <PublishFile Include="Microsoft.AnalysisServices.AdomdClient">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="Telerik.WinControls">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="Telerik.WinControls.ChartView">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="Telerik.WinControls.GridView">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="Telerik.WinControls.PivotGrid">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="Telerik.WinControls.RadDock">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="Telerik.WinControls.Scheduler">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="Telerik.WinControls.Themes.VisualStudio2012Dark">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="Telerik.WinControls.Themes.VisualStudio2012Light">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="Telerik.WinControls.UI">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="TelerikCommon">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="TelerikData">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\HRCHANGHOLIDAY\HRCHANGHOLIDAY.csproj">
+      <Project>{9D2D1822-5CE3-4EAD-99C6-03E46E93E242}</Project>
+      <Name>HRCHANGHOLIDAY</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HRDOCS\HRDOCS.csproj">
+      <Project>{6A03FBDE-453C-4FD8-A11B-D6761BC0F220}</Project>
+      <Name>HRDOCS</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SysApp\SysApp.csproj">
+      <Project>{285BADAA-7E46-4C9B-A879-46BEBDD84E00}</Project>
+      <Name>SysApp</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

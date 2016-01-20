@@ -1,0 +1,156 @@
+D:\Project\HROS\HRDOCS\bin\Debug\HRDOCS.exe
+D:\Project\HROS\HRDOCS\bin\Debug\HRDOCS.pdb
+D:\Project\HROS\HRDOCS\bin\Debug\SysApp.dll
+D:\Project\HROS\HRDOCS\bin\Debug\SysApp.pdb
+D:\Project\HROS\HRDOCS\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\HROS\HRDOCS\obj\Debug\HRDOCS.ConfirmReject.resources
+D:\Project\HROS\HRDOCS\obj\Debug\HRDOCS.Properties.Resources.resources
+D:\Project\HROS\HRDOCS\obj\Debug\HRDOCS.SearchDC.resources
+D:\Project\HROS\HRDOCS\obj\Debug\HRDOCS.Select_Shift.resources
+D:\Project\HROS\HRDOCS\obj\Debug\HRDOCS.Shift_ApproveHD.resources
+D:\Project\HROS\HRDOCS\obj\Debug\HRDOCS.Shift_ApproveHD_Detail.resources
+D:\Project\HROS\HRDOCS\obj\Debug\HRDOCS.Shift_ApproveHR.resources
+D:\Project\HROS\HRDOCS\obj\Debug\HRDOCS.Shift_ApproveHR_Detail.resources
+D:\Project\HROS\HRDOCS\obj\Debug\HRDOCS.Shift_ApproveMN.resources
+D:\Project\HROS\HRDOCS\obj\Debug\HRDOCS.Shift_ApproveMN_Detail.resources
+D:\Project\HROS\HRDOCS\obj\Debug\HRDOCS.Shift_Authorize.resources
+D:\Project\HROS\HRDOCS\obj\Debug\HRDOCS.Shift_Create.resources
+D:\Project\HROS\HRDOCS\obj\Debug\HRDOCS.Shift_Edit.resources
+D:\Project\HROS\HRDOCS\obj\Debug\HRDOCS.Shift_EditDetail.resources
+D:\Project\HROS\HRDOCS\obj\Debug\HRDOCS.Shift_Main.resources
+D:\Project\HROS\HRDOCS\obj\Debug\HRDOCS.Shift_ReportHRApprove.resources
+D:\Project\HROS\HRDOCS\obj\Debug\HRDOCS.Shift_ReportOT.resources
+D:\Project\HROS\HRDOCS\obj\Debug\HRDOCS.Shift_ReportStatusDoc.resources
+D:\Project\HROS\HRDOCS\obj\Debug\HRDOCS.Shift_SearchData.resources
+D:\Project\HROS\HRDOCS\obj\Debug\HRDOCS.Shift_SearchDataDetail.resources
+D:\Project\HROS\HRDOCS\obj\Debug\HRDOCS.Test.resources
+D:\Project\HROS\HRDOCS\obj\Debug\HRDOCS.csproj.GenerateResource.Cache
+D:\Project\HROS\HRDOCS\obj\Debug\HRDOCS.exe
+D:\Project\HROS\HRDOCS\obj\Debug\HRDOCS.pdb
+D:\Project\HROS\HRDOCS\bin\Debug\HRDOCS.exe.config
+D:\Project\HROS\HRDOCS\obj\Debug\HRDOCS.Leave_Create.resources
+D:\Project\HROS\HRDOCS\obj\Debug\HRDOCS.Leave_Edit.resources
+D:\Project\HROS\HRDOCS\obj\Debug\HRDOCS.Chd_Create.resources
+D:\Project\HROS\HRDOCS\obj\Debug\HRDOCS.Chd_SelectShift.resources
+D:\Project\HROS\HRDOCS\obj\Debug\HRDOCS.Chd_ApproveHD.resources
+D:\Project\HROS\HRDOCS\obj\Debug\HRDOCS.Chd_ApproveHD_Detail.resources
+D:\Project\HROS\HRDOCS\obj\Debug\HRDOCS.Chd_ReportStatusDoc.resources
+D:\Project\HROS\HRDOCS\obj\Debug\HRDOCS.Chd_ApproveHR.resources
+D:\Project\HROS\HRDOCS\obj\Debug\HRDOCS.Chd_ApproveHR_Detail.resources
+D:\Project\HROS\HRDOCS\obj\Debug\HRDOCS.Chd_ApproveMN.resources
+D:\Project\HROS\HRDOCS\obj\Debug\HRDOCS.Chd_ApproveMN_Detail.resources
+D:\Project\HROS\HRDOCS\obj\Debug\HRDOCS.Chd_Edit.resources
+D:\Project\HROS\HRDOCS\obj\Debug\HRDOCS.Chd_EditDetail.resources
+D:\Project\HROS\HRDOCS\obj\Debug\HRDOCS.Chd_ReportHRApprove.resources
+C:\Users\chakorn\Desktop\New folder\HRDOCS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\chakorn\Desktop\New folder\HRDOCS\obj\Debug\HRDOCS.Chd_ApproveHD.resources
+C:\Users\chakorn\Desktop\New folder\HRDOCS\obj\Debug\HRDOCS.Chd_ApproveHD_Detail.resources
+C:\Users\chakorn\Desktop\New folder\HRDOCS\obj\Debug\HRDOCS.Chd_ApproveHR.resources
+C:\Users\chakorn\Desktop\New folder\HRDOCS\obj\Debug\HRDOCS.Chd_ApproveHR_Detail.resources
+C:\Users\chakorn\Desktop\New folder\HRDOCS\obj\Debug\HRDOCS.Chd_ApproveMN.resources
+C:\Users\chakorn\Desktop\New folder\HRDOCS\obj\Debug\HRDOCS.Chd_ApproveMN_Detail.resources
+C:\Users\chakorn\Desktop\New folder\HRDOCS\obj\Debug\HRDOCS.Chd_Create.resources
+C:\Users\chakorn\Desktop\New folder\HRDOCS\obj\Debug\HRDOCS.Chd_Edit.resources
+C:\Users\chakorn\Desktop\New folder\HRDOCS\obj\Debug\HRDOCS.Chd_EditDetail.resources
+C:\Users\chakorn\Desktop\New folder\HRDOCS\obj\Debug\HRDOCS.Chd_ReportHRApprove.resources
+C:\Users\chakorn\Desktop\New folder\HRDOCS\obj\Debug\HRDOCS.Chd_ReportStatusDoc.resources
+C:\Users\chakorn\Desktop\New folder\HRDOCS\obj\Debug\HRDOCS.Chd_SelectShift.resources
+C:\Users\chakorn\Desktop\New folder\HRDOCS\obj\Debug\HRDOCS.ConfirmReject.resources
+C:\Users\chakorn\Desktop\New folder\HRDOCS\obj\Debug\HRDOCS.Leave_Create.resources
+C:\Users\chakorn\Desktop\New folder\HRDOCS\obj\Debug\HRDOCS.Leave_Edit.resources
+C:\Users\chakorn\Desktop\New folder\HRDOCS\obj\Debug\HRDOCS.Properties.Resources.resources
+C:\Users\chakorn\Desktop\New folder\HRDOCS\obj\Debug\HRDOCS.SearchDC.resources
+C:\Users\chakorn\Desktop\New folder\HRDOCS\obj\Debug\HRDOCS.Select_Shift.resources
+C:\Users\chakorn\Desktop\New folder\HRDOCS\obj\Debug\HRDOCS.Shift_ApproveHD.resources
+C:\Users\chakorn\Desktop\New folder\HRDOCS\obj\Debug\HRDOCS.Shift_ApproveHD_Detail.resources
+C:\Users\chakorn\Desktop\New folder\HRDOCS\obj\Debug\HRDOCS.Shift_ApproveHR.resources
+C:\Users\chakorn\Desktop\New folder\HRDOCS\obj\Debug\HRDOCS.Shift_ApproveHR_Detail.resources
+C:\Users\chakorn\Desktop\New folder\HRDOCS\obj\Debug\HRDOCS.Shift_ApproveMN.resources
+C:\Users\chakorn\Desktop\New folder\HRDOCS\obj\Debug\HRDOCS.Shift_ApproveMN_Detail.resources
+C:\Users\chakorn\Desktop\New folder\HRDOCS\obj\Debug\HRDOCS.Shift_Authorize.resources
+C:\Users\chakorn\Desktop\New folder\HRDOCS\obj\Debug\HRDOCS.Shift_Create.resources
+C:\Users\chakorn\Desktop\New folder\HRDOCS\obj\Debug\HRDOCS.Shift_Edit.resources
+C:\Users\chakorn\Desktop\New folder\HRDOCS\obj\Debug\HRDOCS.Shift_EditDetail.resources
+C:\Users\chakorn\Desktop\New folder\HRDOCS\obj\Debug\HRDOCS.Shift_Main.resources
+C:\Users\chakorn\Desktop\New folder\HRDOCS\obj\Debug\HRDOCS.Shift_ReportHRApprove.resources
+C:\Users\chakorn\Desktop\New folder\HRDOCS\obj\Debug\HRDOCS.Shift_ReportOT.resources
+C:\Users\chakorn\Desktop\New folder\HRDOCS\obj\Debug\HRDOCS.Shift_ReportStatusDoc.resources
+C:\Users\chakorn\Desktop\New folder\HRDOCS\obj\Debug\HRDOCS.Shift_SearchData.resources
+C:\Users\chakorn\Desktop\New folder\HRDOCS\obj\Debug\HRDOCS.Shift_SearchDataDetail.resources
+C:\Users\chakorn\Desktop\New folder\HRDOCS\obj\Debug\HRDOCS.Test.resources
+C:\Users\chakorn\Desktop\New folder\HRDOCS\obj\Debug\HRDOCS.csproj.GenerateResource.Cache
+C:\Users\chakorn\Desktop\New folder\HRDOCS\obj\Debug\HRDOCS.exe
+C:\Users\chakorn\Desktop\New folder\HRDOCS\bin\Debug\HRDOCS.exe.config
+C:\Users\chakorn\Desktop\New folder\HRDOCS\bin\Debug\HRDOCS.exe
+C:\Users\chakorn\Desktop\New folder\HRDOCS\bin\Debug\HRDOCS.pdb
+C:\Users\chakorn\Desktop\New folder\HRDOCS\bin\Debug\SysApp.dll
+C:\Users\chakorn\Desktop\New folder\HRDOCS\bin\Debug\SysApp.pdb
+C:\Users\chakorn\Desktop\New folder\HRDOCS\obj\Debug\HRDOCS.Leave_ApproveHD.resources
+C:\Users\chakorn\Desktop\New folder\HRDOCS\obj\Debug\HRDOCS.Leave_ApproveHD_Detail.resources
+C:\Users\chakorn\Desktop\New folder\HRDOCS\obj\Debug\HRDOCS.Leave_ApproveHR.resources
+C:\Users\chakorn\Desktop\New folder\HRDOCS\obj\Debug\HRDOCS.Leave_ApproveHR_Detail.resources
+C:\Users\chakorn\Desktop\New folder\HRDOCS\obj\Debug\HRDOCS.Leave_ApproveMN.resources
+C:\Users\chakorn\Desktop\New folder\HRDOCS\obj\Debug\HRDOCS.Leave_ApproveMN_Detail.resources
+C:\Users\chakorn\Desktop\New folder\HRDOCS\obj\Debug\HRDOCS.Leave_EditDetail.resources
+C:\Users\chakorn\Desktop\New folder\HRDOCS\obj\Debug\HRDOCS.Leave_ReportHRApprove.resources
+C:\Users\chakorn\Desktop\New folder\HRDOCS\obj\Debug\HRDOCS.Leave_ReportStatusDoc.resources
+C:\Users\chakorn\Desktop\New folder\HRDOCS\obj\Debug\HRDOCS.Leave_SearchData.resources
+C:\Users\chakorn\Desktop\New folder\HRDOCS\obj\Debug\HRDOCS.Leave_SearchDataDetail.resources
+C:\Users\chakorn\Desktop\New folder\HRDOCS\obj\Debug\HRDOCS.pdb
+D:\Project\HROS\HRDOCS\obj\Debug\HRDOCS.Leave_ApproveHD.resources
+D:\Project\HROS\HRDOCS\obj\Debug\HRDOCS.Leave_ApproveHD_Detail.resources
+D:\Project\HROS\HRDOCS\obj\Debug\HRDOCS.Leave_ApproveHR.resources
+D:\Project\HROS\HRDOCS\obj\Debug\HRDOCS.Leave_ApproveHR_Detail.resources
+D:\Project\HROS\HRDOCS\obj\Debug\HRDOCS.Leave_ApproveMN.resources
+D:\Project\HROS\HRDOCS\obj\Debug\HRDOCS.Leave_ApproveMN_Detail.resources
+D:\Project\HROS\HRDOCS\obj\Debug\HRDOCS.Leave_EditDetail.resources
+D:\Project\HROS\HRDOCS\obj\Debug\HRDOCS.Leave_ReportHRApprove.resources
+D:\Project\HROS\HRDOCS\obj\Debug\HRDOCS.Leave_ReportStatusDoc.resources
+D:\Project\HROS\HRDOCS\obj\Debug\HRDOCS.Leave_SearchData.resources
+D:\Project\HROS\HRDOCS\obj\Debug\HRDOCS.Leave_SearchDataDetail.resources
+D:\Project\HROS\HRDOCS\obj\Debug\HRDOCS.Report_AllLeaveCount.resources
+D:\Project\HROS\HRDOCS\obj\Debug\HRDOCS.Chd_ApproveHR_Remark.resources
+D:\Project\HROS\HRDOCS\obj\Debug\HRDOCS.Pay_Menu.resources
+D:\Project\HROS\HRDOCS\obj\Debug\HRDOCS.Pay_Report.resources
+D:\Project\HROS\HRDOCS\obj\Debug\HRDOCS.Chd_ReportHRStatusDoc.resources
+D:\Project\HROS\HRDOCS\obj\Debug\HRDOCS.Pay_Creat.resources
+D:\Project\HROS\HRDOCS\obj\Debug\HRDOCS.Pay_Delete.resources
+D:\Project\HROS\HRDOCS\obj\Debug\HRDOCS.Form1.resources
+D:\Project\HROS\HRDOCS\obj\Debug\HRDOCS.Frm_SendMail.resources
+D:\Project\HROS\HRDOCS\obj\Debug\HRDOCS.Pay_CheckPay.resources
+D:\Project\HROS\HRDOCS\obj\Debug\HRDOCS.Pay_CheckImportBill.resources
+D:\Project\HROS\HRDOCS\obj\Debug\HRDOCS.Cancle_Create.resources
+D:\Project\HROS\HRDOCS\obj\Debug\HRDOCS.Cancle_DetailCHD.resources
+D:\Project\HROS\HRDOCS\obj\Debug\HRDOCS.Cancle_DetailDL.resources
+D:\Project\HROS\HRDOCS\obj\Debug\HRDOCS.Cancle_DetailDS.resources
+D:\Project\HROS\HRDOCS\obj\Debug\HRDOCS.Cancle_ApproveHD.resources
+D:\Project\HROS\HRDOCS\obj\Debug\HRDOCS.Cancle_Docs.resources
+D:\Project\HROS\HRDOCS\obj\Debug\HRDOCS.Cancle_ApproveHD_Detail.resources
+D:\Project\HROS\HRDOCS\obj\Debug\HRDOCS.Cancle_ApproveHD_DetailCHD.resources
+D:\Project\HROS\HRDOCS\obj\Debug\HRDOCS.Cancle_ApproveHD_DetailDL.resources
+D:\Project\HROS\HRDOCS\obj\Debug\HRDOCS.Cancle_ApproveHD_DetailDS.resources
+D:\Project\HROS\HRDOCS\obj\Debug\HRDOCS.Cancle_ApproveHR.resources
+D:\Project\HROS\HRDOCS\obj\Debug\HRDOCS.Cancle_ApproveHR_DetailDL.resources
+D:\Project\HROS\HRDOCS\obj\Debug\HRDOCS.Cancle_ApproveHR_DetailCHG.resources
+D:\Project\HROS\HRDOCS\obj\Debug\HRDOCS.Cancle_ApproveHR_DetailDS.resources
+D:\Project\HROS\HRDOCS\obj\Debug\HRDOCS.Cancle_ReportStatusDoc.resources
+D:\Project\HROS\HRDOCS\obj\Debug\HRDOCS.Cancle_ReportStatusDoc_DetailCHG.resources
+D:\Project\HROS\HRDOCS\obj\Debug\HRDOCS.Cancle_ReportStatusDoc_DetailDL.resources
+D:\Project\HROS\HRDOCS\obj\Debug\HRDOCS.Cancle_ReportStatusDoc_DetailDS.resources
+D:\Project\HROS\HRDOCS\obj\Debug\HRDOCS.Cancle_ReportHRApprove.resources
+D:\Project\HROS\HRDOCS\obj\Debug\HRDOCS.Cancle_ApproveMN.resources
+D:\Project\HROS\HRDOCS\obj\Debug\HRDOCS.Cancle_SelectShifr.resources
+D:\PROJECT\HROS\HRDOCS\obj\Debug\HRDOCS.Cancle_Edit.resources
+D:\PROJECT\HROS\HRDOCS\obj\Debug\HRDOCS.Cancle_EditDetaiDL.resources
+D:\PROJECT\HROS\HRDOCS\obj\Debug\HRDOCS.Cancle_EditDetailCHD.resources
+D:\PROJECT\HROS\HRDOCS\obj\Debug\HRDOCS.Cancle_EditDetailDS.resources
+D:\PROJECT\HROS\HRDOCS\obj\Debug\HRDOCS.Chd_CheckHist.resources
+D:\PROJECT\HROS\HRDOCS\obj\Debug\HRDOCS.Leave_CheckLeave.resources
+D:\PROJECT\HROS\HRDOCS\obj\Debug\HRDOCS.Leave_Hist.resources
+D:\PROJECT\HROS\HRDOCS\obj\Debug\HRDOCS.Pay_Delete_Detail.resources
+D:\PROJECT\HROS\HRDOCS\obj\Debug\HRDOCS.Leave_CheckLeaveDetail.resources
+D:\PROJECT\HROS\HRDOCS\obj\Debug\HRDOCS.Leave_CheckLeave_Detail.resources
+D:\PROJECT\HROS\HRDOCS\obj\Debug\HRDOCS.Chd_CheckEmpHoliday.resources
+D:\PROJECT\HROS\HRDOCS\obj\Debug\HRDOCS.Pay_ImportBill.resources
+D:\PROJECT\HROS\HRDOCS\obj\Debug\HRDOCS.SendEmail.resources
+D:\PROJECT\HROS\HRDOCS\obj\Debug\HRDOCS.SetEmail.resources
